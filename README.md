@@ -1,2 +1,0 @@
-# CIS122PROJECT
-DataStruct
