@@ -41,10 +41,11 @@ namespace The_Prototype
 
                 else { message += "Iput error"; }
 
-               
 
+            Console.Clear();//delete last infor
 
             return message;
+
         }
     }
 }
